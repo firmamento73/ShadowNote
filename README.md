@@ -8,13 +8,9 @@
 
 ## 在线 Demo
 
-开启 GitHub Pages 后访问：`https://firmamento73.github.io/shadownote/`
+`https://firmamento73.github.io/shadownote/`
 
 （Demo 只是空播放器，视频和笔记需要你自己在本地载入，见下文。）
-
-## 截图
-
-> 建议在这里放 1–2 张截图：`docs/screenshot-viewer.png`、`docs/screenshot-qa.png`。
 
 ## 特性
 
@@ -75,15 +71,6 @@
 - Google Fonts：Newsreader、IBM Plex Mono（开放字体许可）
 
 离线时这些会优雅降级（公式不渲染、无法解析 docx、字体回退），核心的播放与笔记同步仍可用。
-
-## ⚠ 重要：不要把视频和你的笔记提交进仓库
-
-仓库里只放**播放器本体、README、LICENSE**（外加可选的极小示例）。**不要**提交：
-
-- 视频文件（mp4 等，尤其是付费课程——涉及版权，且 GitHub 单文件 100MB 上限、仓库体积）
-- 你的逐字稿、`notes.json` / `notes.txt`、导出的 `qa.md` 等个人学习材料
-
-视频和笔记由使用者自带。仓库已附 `.gitignore` 帮你挡掉这些。
 
 ## 许可
 
