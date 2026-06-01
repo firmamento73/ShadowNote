@@ -1,0 +1,31 @@
+# 视频（千万别提交，尤其付费课程；版权 + 体积 + 100MB 上限）
+*.mp4
+*.webm
+*.mov
+*.m4v
+*.mkv
+*.avi
+*.ogg
+
+# 字幕 / 逐字稿
+*.srt
+*.vtt
+
+# 个人笔记与问答记录（使用者自带，不进仓库）
+notes.json
+notes.txt
+qa.md
+*-笔记.txt
+*-模板.txt
+*-模板.json
+
+# 系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+node_modules/
+
+# 例外：如果你想保留一个很小的示例笔记，取消下面注释并改名
+# !example.notes.json
